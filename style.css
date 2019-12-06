@@ -135,3 +135,29 @@ a:hover
 		background-image: url(./pics/sport.jpg);
 		background-size: cover;
 	}
+
+	.radical{
+		background-image: url(./pics/radical-min.jpg);
+		background-size: cover;
+	}
+
+	.cv{
+		font-size: 40px;
+		color: blue;
+		background-color: yellow;
+	}
+
+	.basic{
+		background-image: url(./pics/basic-min.jpg);
+		background-size: cover;
+	}
+
+	.pro{
+		background-image: url(./pics/pro-min.jpg);
+		background-size: cover;
+	}
+
+	.geek{
+		background-image: url(./pics/GeekBrains-min.jpg);
+		background-size: cover;
+	}
